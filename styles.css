@@ -1,0 +1,19 @@
+body{
+	margin-top: 20vh;
+	font-family: 'Raleway';
+	background: linear-gradient(to right,rgb(255,255,255),rgb(40,240,40));
+	text-align: center;
+	letter-spacing: .5em;
+}
+.butt1{
+	margin-top: 35vh;
+	width: 30vh;
+	font-family: 'Raleway';
+	font-size: 1em;
+	background: transparent;
+	border-width: 1px;
+	border-radius: 40vh;
+}
+.butt1:hover{
+	cursor: pointer;
+}
